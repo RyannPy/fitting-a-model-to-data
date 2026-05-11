@@ -1,1 +1,1 @@
-# Fitting a Model to Data
+# Indie Studio Ads Optimizer: Predicting Premium Upgrade & Total Spend
