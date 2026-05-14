@@ -42,10 +42,10 @@ def pelanggan_generator(n_user=1000):
         # =========================================
 
         premium_score = (
-            -6 + # default player = f2p
-            0.015 * days_active +
-            0.02 * avg_session_time +
-            0.03 * community_engagement +
+            -6.7 +
+            0.012 * days_active +
+            0.018 * avg_session_time +
+            0.02 * community_engagement +
             np.random.normal(0, 1)
         )
 
